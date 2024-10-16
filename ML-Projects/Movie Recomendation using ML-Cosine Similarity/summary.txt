@@ -18,6 +18,7 @@ Data Preprocessing: Clean the dataset by handling missing values.
 Feature Extraction: Convert textual data into numerical vectors using TF-IDF.
 Similarity Calculation: Use cosine similarity to assess how closely related movies are.
 User Input: Accept user’s favorite movie and recommend similar films based on similarity scores.
-This project effectively illustrates the application of machine learning in creating personalized movie recommendations, similar to those used by popular OTT platforms.
+This project effectively illustrates the application of machine learning in creating personalized movie recommendations, 
+similar to those used by popular OTT platforms.
 
 
